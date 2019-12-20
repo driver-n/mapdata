@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "reykjavik1801_poly3",
+"name": "reykjavik1801_poly",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "OBJECTID": 0, "LENGTH": 83.086610620599998, "AREA": 319.45419032699999, "TYPE": "Mortar", "INFO": "The Church, built with chopped stone.", "FEATURE": "building" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -21.939005063430493, 64.146742668029617 ], [ -21.939050688296366, 64.146636750488511 ], [ -21.939101501768775, 64.146640923074798 ], [ -21.939122920799466, 64.146591200525492 ], [ -21.939239239469114, 64.14660075230438 ], [ -21.939217822694413, 64.146650474856841 ], [ -21.939533319040081, 64.146676382791682 ], [ -21.939487698005525, 64.146782300467109 ], [ -21.939005063430493, 64.146742668029617 ] ] ] ] } },
