@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "name": "reyk1801_points",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 1, "INFO": "Best place for Geographical Surveyors to make observations from (?) 1804" }, "geometry": { "type": "Point", "coordinates": [ -2443038.894361790269613, 9387032.907857285812497 ] } },
-{ "type": "Feature", "properties": { "id": 2, "INFO": "Assessor Einarsons house built 1801-1802, and Beekeeper's House built 1804. (wood boards)" }, "geometry": { "type": "Point", "coordinates": [ -2442035.465721043758094, 9387259.727107776328921 ] } }
+{ "type": "Feature", "properties": { "id": 1, "INFO": "Best place for Geographical Surveyors to make observations from (?) 1804" }, "geometry": { "type": "Point", "coordinates": [ -21.946191785036532, 64.146377724681983 ] } },
+{ "type": "Feature", "properties": { "id": 2, "INFO": "Assessor Einarsons house built 1801-1802, and Beekeeper's House built 1804. (wood boards)" }, "geometry": { "type": "Point", "coordinates": [ -21.937177832191473, 64.147266232901785 ] } }
 ]
 }
